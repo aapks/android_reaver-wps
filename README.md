@@ -34,7 +34,8 @@ DESCRIPTION
 	pin numbers is entirely limited by the speed at which the AP can process WPS requests. Some APs are fast enough 
 	that one pin can be tested every second; others are slower and only allow one pin every ten seconds. Statistically, 
 	it will only take half of that time in order to guess the correct pin number.
-	
+	## [WPS Connect](https://aapks.com/apk/wps-connect/)
+
 
 INSTALLATION
 
